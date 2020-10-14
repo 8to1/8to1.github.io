@@ -38,11 +38,6 @@ header .info {
   animation-duration: 4s;
 }
 
-header .btn {
-  animation-name: fadein;
-  animation-duration: 1s;
-}
-
 .info span {
   font-size: 80%;
 }

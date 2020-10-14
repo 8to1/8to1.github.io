@@ -30,12 +30,12 @@ header img {
 
 header .pic {
   animation-name: fadein;
-  animation-duration: 4s;
+  animation-duration: 2s;
 }
 
 header .info {
   animation-name: fadein;
-  animation-duration: 2s;
+  animation-duration: 4s;
 }
 
 .info span {

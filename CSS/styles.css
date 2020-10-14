@@ -28,6 +28,10 @@ header img {
   /* vertical-align: bottom; */
 }
 
+.info span {
+  font-size: 80%;
+}
+
 .info a {
   text-decoration: none;
 }

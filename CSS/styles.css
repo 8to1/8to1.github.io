@@ -28,9 +28,14 @@ header img {
   /* vertical-align: bottom; */
 }
 
-header .info {
+header .pic {
   animation-name: fadein;
   animation-duration: 2s;
+}
+
+header .info {
+  animation-name: fadein;
+  animation-duration: 3s;
 }
 
 .info span {

@@ -28,6 +28,11 @@ header img {
   /* vertical-align: bottom; */
 }
 
+.info {
+  animation-name: fadein;
+  animation-duration: 2s;
+}
+
 .info span {
   font-size: 80%;
 }
@@ -179,5 +184,16 @@ footer {
 
   .members li {
     width: 250px;
+  }
+}
+
+@keyframes {
+  form {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
   }
 }
